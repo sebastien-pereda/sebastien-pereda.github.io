@@ -1,1 +1,1 @@
-https://sebastien.pereda.github.io
+[Sébastien Pereda](https://sebastien-pereda.github.io/)
