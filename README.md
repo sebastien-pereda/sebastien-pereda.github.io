@@ -1,1 +1,1 @@
-[Sébastien Pereda](https://sebastien-pereda.github.io/)
+Front-end project
